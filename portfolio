@@ -1,0 +1,81 @@
+# g00pchii.github.io
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet"; href = "yeet.css">
+    <link href="https://fonts.googleapis.com/css?family=Aldrich|Amatic+SC|Comfortaa|Gaegu|Gugi|Happy+Monkey|Josefin+Sans|Libre+Barcode+128+Text|Poiret+One|Poor+Story|Press+Start+2P|Quicksand|Six+Caps|VT323" rel="stylesheet">
+  </head>
+  <body>
+    <div>
+      <p>
+        <h2>My Portfolio</h2>
+        <h4>Bio</h4>
+        <p>
+        <img
+        alt="Little monocolor self prtrait."
+        src="C:\Users\Girls Who Code\Pictures\art\icon.png"
+        />
+        </p>
+        Hello! I am Mini, I am currently 15, gender non binary (they/them) and I enjoy drawing!
+        I am most active in the DanganRonpa, Homestuck and Cookie Run fandoms at the moment!
+      </p>
+      <p>
+        <h4>Art Status</h4>
+        I will not do any requests, art trades or collaborations at the moment.
+        My commission prices are linked below if you really want me to draw something for you though.
+      </p>
+      <p>
+        <a href="https://aminoapps.com/c/danganronpa/page/item/com-info/mo64_ea8i0I0po2vzjz6rmBdaXm1ogdzaWJ">Commissions</a>
+      </p>
+    </div>
+    <div>
+    <h3>finished pieces</h3>
+      <p>
+      <img 
+      alt="Drawing of Chihiro Fujisaki from DanganRonpa."
+      src="C:\Users\Girls Who Code\Pictures\art\tears.png" width="750" height="825"
+      />
+      <br>
+      <img src="C:\Users\Girls Who Code\Pictures\art\drst 00.png" width="553" height="648">
+      <br>
+      <img 
+      alt="Drawing of Korekiyo Shinguji and Kirumi Tojo from DanganRonpa watching fireworks at the beach."
+      src="C:\Users\Girls Who Code\Pictures\art\dr rarepair week d1.png" width="650" height="800"
+      />
+      <br>
+      <img src="C:\Users\Girls Who Code\Pictures\art\C1.png">
+      <img src="C:\Users\Girls Who Code\Pictures\art\C1.png">
+      <img src="C:\Users\Girls Who Code\Pictures\art\C1.png">
+    </p>
+    </div>
+    <div>
+    <h3>sketches/doodles</h3>
+      <p>
+        <img 
+        alt="Colored sketch of Lemon Cookie from Cookie Run."
+        src="C:\Users\Girls Who Code\Pictures\art\.png" width="650" height="700"
+        />
+      <br>
+        <img 
+        alt="Drawing of John Egbert from Homestuck."
+        src="C:\Users\Girls Who Code\Pictures\art\ecto biologist.png" width="500" height="700"
+        />
+      <br>
+        <img 
+        alt="Sketch of Korekiyo Shinguji and Kirumi Tojo from Danganronpa>
+        src="C:\Users\Girls Who Code\Pictures\art\dr rarepair week d2 sketch.png" width="680" height="920"
+        />
+      <br>
+      <img src="C:\Users\Girls Who Code\Pictures\art\C1.png">
+      <img src="C:\Users\Girls Who Code\Pictures\art\C1.png">
+      <img src="C:\Users\Girls Who Code\Pictures\art\C1.png">
+      </p>
+    </div>
+    <div>
+      <a href="https://aminoapps.com/c/danganronpa/page/user/g00pchii-semi-hiatus/n5Vm_eN8tofVQM2QxB2zdzGzYj7r2wjmMQP"><img alt="Amino Acount" src="C:\Users\Girls Who Code\Pictures\art\a icon.png" width="107" height="105"></a>
+      <a href="http://www.g00pchii.tumblr.com/"><img alt="Tumblr Acount"src="C:\Users\Girls Who Code\Pictures\art\t icon.png" width="107" height="105"></a>
+      <a href="https://www.deviantart.com/g00pchii"><img alt="DeviantArt Acount" src="C:\Users\Girls Who Code\Pictures\art\d icon.png" width="107" height="105"></a>
+    </div>
+  </body>
+</html>
