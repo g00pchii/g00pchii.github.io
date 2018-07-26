@@ -25,4 +25,27 @@ h4 {
 
 div {
   background-color: white;
-  }
+}
+
+.topnav{
+  background-color:  #16fdf8;
+  overflow: hidden;
+}
+
+.topnav a{
+  float: left;
+  color: #7224b3;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.links{
+  background-color:  #16fdf8;
+}
+
+.links a{
+  background-color:  #16fdf8;
+  text-align: : center;
+}
